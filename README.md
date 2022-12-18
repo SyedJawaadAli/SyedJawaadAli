@@ -8,11 +8,11 @@ Feel free to take a look around and check out my projects. If you have any quest
 
 
 Skills and Technologies
-•	Languages: SQL, Python, Java \n
-•	Statistical Tools: SPSS, EViews \n
-•	Visualization: Tableau, Power BI \n
-•	Office Productivity: MS Office Suite, Advanced Excel, Macros, MS Project & Visio \n
-•	Other: Qualitative and Quantitative Research Methods \n
+•	Languages: SQL, Python, Java
+•	Statistical Tools: SPSS, EViews
+•	Visualization: Tableau, Power BI
+•	Office Productivity: MS Office Suite, Advanced Excel, Macros, MS Project & Visio
+•	Other: Qualitative and Quantitative Research Methods
 
 
 
